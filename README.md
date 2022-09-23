@@ -1,3 +1,7 @@
+# This repository has been pushed to the official dracula organization, https://github.com/dracula/youtube-music-desktop
+
+
+
 # Dracula for [YTMD](https://ytmdesktop.app/)
 
 > A dark theme for [YTMD](https://ytmdesktop.app/).
